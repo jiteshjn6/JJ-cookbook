@@ -8,8 +8,8 @@ Many of the command line flags of ffuf are the same than in curl so in case you 
 
 To configure a ffuf run, two things are mandatory:
 
-Having a wordlist, or a command that provides different inputs
-Setting up a FUZZ keyword in some part of the request
+  Having a wordlist, or a command that provides different inputs
+  Setting up a FUZZ keyword in some part of the request
 
 We can perform directory discovery with ffuf along with tasks like virtual host discovery.
 We can use the following syntax for directory discovery:
