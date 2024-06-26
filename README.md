@@ -25,3 +25,5 @@ ffuf -w hosts.txt -u https://example.org/ -H "Host: FUZZ" -mc 200
 We can enumerate files and can tell ffuf to look only for files with certain extensions:
 
 ffuf -w wordlist.txt -u https://target/FUZZ -e .PHP,.HTML,.txt
+![WhatsApp Image 2024-06-26 at 11 11 43_89122782](https://github.com/jiteshjn6/JJ-cookbook/assets/76043839/5141e079-3ec5-45dd-9a12-ae80c549c3cd)
+
