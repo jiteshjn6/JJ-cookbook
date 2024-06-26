@@ -14,6 +14,9 @@ We can perform directory discovery with ffuf along with tasks like virtual host 
 We can use the following syntax for directory discovery:
 
 ffuf -c -w /path/to/wordlist -u https://target/FUZZ
+![WhatsApp Image 2024-06-26 at 10 51 16_952479b3](https://github.com/jiteshjn6/JJ-cookbook/assets/76043839/716d674c-5edf-4588-9616-dc1071f32900)
+
+
 
 We can fuzz host headers by using the following:
 
